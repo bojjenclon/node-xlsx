@@ -14,7 +14,7 @@
     "compile:watch": "npm run compile -- -w",
     "prepublish": "npm run compile"
   },
-  "repository": "github:mgcrea/node-xlsx",
+  "repository": "github:bojjenclon/node-xlsx",
   "license": "Apache-2.0",
   "dependencies": {
     "xlsx-style": "^0.8.13"
